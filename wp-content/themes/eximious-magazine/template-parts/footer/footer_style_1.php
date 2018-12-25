@@ -64,7 +64,9 @@ $enable_footer_nav = eximious_magazine_get_option('enable_footer_nav');
             }
             ?>
         </span>
-        <?php printf(esc_html__('Theme: %1$s by %2$s', 'eximious-magazine'), '<a href="http://themesaga.com/theme/eximious-magazine" target = "_blank" rel="designer">Eximious Magazine</a>', '<a href="http://themesaga.com/" target = "_blank" rel="designer">Themesaga</a>'); ?>
+
+<!--        --><?php //printf(esc_html__('Theme: %1$s by %2$s', 'eximious-magazine'), '<a href="http://themesaga.com/theme/eximious-magazine" target = "_blank" rel="designer">Eximious Magazine</a>', '<a href="http://themesaga.com/" target = "_blank" rel="designer">Themesaga</a>'); ?>
+
     </div>
     </div>
 </div>
