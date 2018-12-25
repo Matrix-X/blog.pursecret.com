@@ -1,0 +1,94 @@
+.saga-about-wrap .saga-section .dashicons {
+	margin-top: -4px;
+	vertical-align: middle;
+}
+
+.saga-about-wrap .nav-tab {
+	font-size: 16px;
+}
+
+.saga-about-wrap h1 {
+	font-size: 2em;
+}
+
+.saga-about-wrap h3 {
+	font-size: 1.2em;
+}
+
+.saga-about-wrap .saga-section-useful-plugins,
+.saga-about-wrap .saga-section-upgrade-to-pro,
+.saga-about-wrap .saga-section-free-vs-pro,
+.saga-about-wrap .saga-section-demo-content {
+	margin-top: 50px;
+}
+
+.saga-about-wrap .tab-upgrade-to-pro,
+.saga-about-wrap .tab-free-vs-pro {
+	background-color: #bf2424;
+	background-color: #159614;
+	color: #FFF;
+}
+
+.saga-about-wrap .wp-badge {
+	background-image: url('../images/logo.png');
+	background-color: #FFF;
+	background-size: 110px auto;
+	background-position: center;
+	height: 70px;
+}
+
+.saga-about-wrap .quick-links a {
+	margin-right: 5px;
+}
+
+.saga-about-notice .btn-dismiss {
+	margin-left: 20px;
+}
+
+.saga-about-wrap .plugin-list {
+	list-style-position: inside;
+	list-style-type: disc;
+}
+
+.saga-section .free-vs-pro-table {
+    width: 100%;
+}
+.saga-section .free-vs-pro-table td {
+    border-top: 1px solid #ccc;
+}
+
+.saga-section .free-vs-pro-table .dashicons:before {
+    font-size: 35px;
+    height: 35px;
+    width: 35px;
+}
+.saga-section .free-vs-pro-table .dashicons-yes:before {
+    color: #0db71c;
+}
+.saga-section .free-vs-pro-table .dashicons-no-alt:before {
+    color: #ea440d;
+}
+.saga-section .faq-title {
+    cursor: pointer;
+    background: #0085ba;
+    color: #ffffff;
+    padding: 10px;
+}
+.saga-section .faq-content {
+    display: none;
+	background: #e2e2e2;
+	padding: 10px;
+}
+.saga-section .faq-content.default {
+    display: block;
+}
+
+.saga-section .free-vs-pro-table tr td:last-child {
+	text-align: center;
+}
+
+.saga-section .free-vs-pro-table td span {
+	display: block;
+	width: 100%;
+	margin-bottom: 15px;
+}

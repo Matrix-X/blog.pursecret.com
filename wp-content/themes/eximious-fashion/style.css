@@ -1,0 +1,179 @@
+/*
+Theme Name: Eximious Fashion
+Theme URI: https://themesaga.com/theme/eximious-fashion/
+Author: Themesaga
+Author URI: http://www.themesaga.com/
+Description:  Eximious Fashion is a child theme of Eximious Magazine. The theme has different fonts and color setup. The theme has added some extra design functionality. By using the combination of those options together you can create a site where you will have control on how the things are displayed on your site. The theme is suitable for any type of news, magazine, entertainment or blog websites.
+Template: eximious-magazine
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: eximious-fashion
+Tags: blog, entertainment, news, one-column, two-columns, left-sidebar, right-sidebar, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, footer-widgets, theme-options
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Eximious Fashion is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+*/
+
+span.ajax-loader.ajax-loader-enabled span,
+.em-folding-cube .em-cube:before{
+    background-color: #f44336;
+}
+
+.woocommerce a.added_to_cart:hover,
+.woocommerce button.button.alt.disabled,
+.woocommerce button.button:hover,
+.woocommerce a.button:hover,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover,
+.woocommerce ul.products li.product .button:hover,
+.woocommerce span.onsale,
+.cat-info a,
+.trending-now-title,
+.widget-title span,
+.widget-title:after,
+.comments-title:after,
+.widget-title:after,
+input.search-submit,
+button:hover,
+.eximious_magazine.widget_single_column_posts .display_style_2 .cat-info a,
+.banner-caption-inner .cat-info a,
+.cat-info a,
+.insta-button a.main-btn-insta:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover,
+.owl-theme .owl-nav [class*='owl-']:hover,
+.site-header-cart .cart-contents:hover:after,
+.search-icon:hover:after,
+.go-back a,
+.eximious_magazine.widget_tab_posts .nav-tabs:before,
+.eximious_magazine.widget_tab_posts .nav-tabs > li.active > a,
+.eximious_magazine.widget_tab_posts .nav-tabs > li.active > a:hover,
+.eximious_magazine.widget_tab_posts .nav-tabs > li.active > a:focus,
+.main-navigation ul>li>a:hover:after,
+.comments-title:after, .widget-title:after,
+.footer-common-widget .widget-title:after,
+.woocommerce span.onsale,
+.woocommerce a.added_to_cart:hover,
+.woocommerce button.button.alt.disabled,
+.woocommerce button.button:hover,
+.woocommerce a.button:hover,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover,
+.woocommerce ul.products li.product .button:hover,
+.woocommerce div.product .woocommerce-tabs ul.tabs:before,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a:hover,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a:focus,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+nav.woocommerce-MyAccount-navigation ul li.is-active,
+nav.woocommerce-MyAccount-navigation ul li.is-active:hover,
+.mc4wp-form-fields input[type="submit"],
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel .owl-nav button.owl-next,
+.saga-notification-button a,
+.banner-caption-inner a,
+.eximious_magazine_video_slider .owl-theme .owl-dots .owl-dot.active span,
+nav.navigation.pagination span.page-numbers.current,
+.main-navigation .current-menu-item a:after{
+    background-color: #f44336;
+}
+
+button,
+.em-comment-link a:hover,
+.insta-button a.main-btn-insta,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.woocommerce-info::before,
+.woocommerce-message::before,
+.woocommerce div.product p.price,
+.woocommerce div.product span.price,
+.woocommerce ul.products li.product .price,
+.social-widget-menu ul li a:hover,
+.woocommerce a.added_to_cart,
+.woocommerce button.button,
+.woocommerce a.button,
+.woocommerce button.button.alt.disabled,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce ul.products li.product .button,
+.star-rating span:before,
+a,a:hover, a:focus, a:active,a:visited,
+.social-widget-menu ul li a:hover,
+.eximious_magazine.widget_single_column_posts .display_style_1 .cat-info a:after, .eximious_magazine.widget_single_column_posts .display_style_1 .cat-info:before, .eximious_magazine.widget_single_column_posts .display_style_1 .cat-info a
+.em-comment-link a:hover,
+article .entry-title a:hover,
+.widget-area ul li a:hover,
+.article-block-wrapper .article-details .em-author-name a:hover,
+.article-block-wrapper .article-details .entry-title a:hover,
+.site-footer-menu ul li a:hover,
+.footer-common-widget a:hover,
+.social-widget-menu ul li a:hover,
+.nav-links a:hover,
+.readmore-btn:after,
+.author-social a:hover,
+.saga-notification-header h3,
+.trending-now-posts.marquee a:hover .trent-title:before,
+.saga-footer .eximious_magazine_express_posts .article-block-wrapper .article-details a:hover,
+.saga-footer .eximious_magazine.widget_tab_posts .tab-content a:hover,
+.trending-now-posts.marquee a:hover{
+    color: #f44336;
+}
+.go-back a,
+.saga-notification-button a:visited,
+.saga-notification-button a:focus,
+.saga-notification-button a:hover,
+input.search-submit,
+.banner-caption-inner a,
+.mc4wp-form-fields input[type="submit"],
+.eximious_magazine.widget_single_column_posts .display_style_2 .cat-info a, .cat-info a{
+    color:#fff;
+}
+
+
+button,
+.insta-button a.main-btn-insta,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.woocommerce-info, .woocommerce-message,
+.social-widget-menu ul li a:hover,
+.woocommerce a.added_to_cart,
+.woocommerce button.button,
+.woocommerce a.button,
+.woocommerce button.button.alt.disabled,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.eximious_magazine_video_slider .owl-theme .owl-dots .owl-dot span,
+.author-social a:hover,
+.woocommerce ul.products li.product .button{
+    border-color: #f44336;
+}
+
+.trending-now-title:after{
+    border-left-color: #f44336;
+}
+
+.site-footer .saga-sub-footer a{
+    color:  #f44336;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Handlee', serif !important;
+}
+
+body{
+    font-family: 'Lato', sans-serif !important;
+}
