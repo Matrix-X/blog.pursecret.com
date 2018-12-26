@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: it_IT\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:169
+msgid "All files"
+msgstr "Tutti i files"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:150
+msgid "Folders"
+msgstr "Cartelle"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Uncategories"
+msgstr "Uncategories"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Click this to create a <strong>new folder</strong>"
+msgstr "Clicca qui per creare un <strong>nuova cartella</strong>"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "A folder can contain every type of file and collections, but no galleries."
+msgstr "Una cartella può contenere tutti i tipi di file e collezioni, ma non le gallerie."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Reorder images"
+msgstr "Riordina le immagini"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Please select a <i class='icon-art-gallery'></i> <i>gallery data folder</i> to reorder the images into a <strong>custom image order</strong>.<br/><br/><u>How you can create a gallery:</u><br />1. Create a new <i class='icon-collection'></i> collection.<br/>2. Select the created collection and create a <i class='icon-art-gallery'></i> gallery data folder."
+msgstr "Si prega di selezionare a <i class='icon-art-gallery'></i> <i>cartella di dati della galleria</i> per riordinare le immagini in a <strong>ordine di immagine personalizzato</strong>.<br/><br/><u>Come creare una galleria:</u><br />1. Crea un nuovo <i class='icon-collection'></i> collezione.<br/>2. Seleziona la collezione creata e crea a <i class='icon-art-gallery'></i> cartella di dati della galleria."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Refresh"
+msgstr "Ricaricare"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Refreshes the current folder view."
+msgstr "Aggiorna la vista della cartella corrente."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Rename the current selected folder."
+msgstr "Rinominare la cartella selezionata corrente."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Delete the current selected folder."
+msgstr "Elimina la cartella selezionata corrente."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Drag folder items to reorder them."
+msgstr "Trascina gli elementi della cartella per riordinarli."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Folder details"
+msgstr "Dettagli della cartella"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Select a folder and view more details about it."
+msgstr "Seleziona una cartella e visualizza maggiori dettagli a riguardo."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Select a folder and upload files. (Option)"
+msgstr "Seleziona una cartella e carica i file. (Opzione)"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Move 1 file"
+msgstr "Sposta 1 file"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Oops"
+msgstr "Oops"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Error"
+msgstr "Errore"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "This folder is already exists. Please type another name."
+msgstr "Questa cartella esiste già. Si prega di digitare un altro nome."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Sorry! An error occurred while processing your request."
+msgstr "Scusate! Si è verificato un errore durante l'elaborazione della richiesta."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "This folder cannot be delete."
+msgstr "Questa cartella non può essere cancellata."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Add sub folder"
+msgstr "Aggiungi sottocartella"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Rename"
+msgstr "Rinominare"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Remove"
+msgstr "Rimuovere"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Something isn't correct here."
+msgstr "Qualcosa non è corretto qui."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "This page will reload now."
+msgstr "Questa pagina verrà ricaricata ora."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "In this folder are sub directories, please delete them first!"
+msgstr "Questa cartella contiene sottodirectory, per favore cancellale prima!"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Are you sure?"
+msgstr "Sei sicuro?"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "You will not be able to recover this folder! But files in this folder are all safe, they are moved to Uncategories folder."
+msgstr "Non sarai in grado di recuperare questa cartella!"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Yes, delete it!"
+msgstr "Sì, cancellalo!"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Deleted"
+msgstr "Cancellato"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Your folder has been deleted."
+msgstr "La tua cartella è stata cancellata."
+
+
+msgid "Delete"
+msgstr "Elimina"
+
+msgid "New folder"
+msgstr "Nuova cartella"
+
+msgid "New Folder"
+msgstr "Nuova Cartella"
+
+msgid "Move"
+msgstr "Move"
+
+msgid "files"
+msgstr "files"
