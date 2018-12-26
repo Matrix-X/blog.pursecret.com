@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.media-frame select.attachment-filters {
+    max-width: 30%;
+}
+.njt-filebird-editcategory-filter{position: relative; z-index: 1;}
+.media-frame select, .wp-admin .media-frame .wpmediacategory-filter{margin-top: 11px;}
+.attachments-browser .attachments-category, .attachments-browser .njt-filebird-editcategory-filter{display: none;}
+.compat-item tr.compat-field-nt_wmc_folder{display: none;}
+button.swal2-confirm.bnt-upgrade.swal2-styled{background: #00a651}
+button.swal2-confirm.bnt-upgrade.swal2-styled:hover{background: #39b54a}
+div#swal2-content {font-size: 15px}
+button.swal2-cancel.btn-text.swal2-styled {display: none !important;}
+.upgrade-description{text-align: left; margin-left: 100px;}

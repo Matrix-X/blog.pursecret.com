@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: vi_VN\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:169
+msgid "All files"
+msgstr "Tất cả file"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:150
+msgid "Folders"
+msgstr "Thư mục"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Uncategories"
+msgstr "Không có thư mục"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Click this to create a <strong>new folder</strong>"
+msgstr "Bấm vào đây để tạo 1 <strong>thư mục mới</strong>"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "A folder can contain every type of file and collections, but no galleries."
+msgstr "Một thư mục có thể chứa các loại tập tin, bộ sưu tập, nhưng không chứa galleries"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Reorder images"
+msgstr "Sắp xếp lại hình ảnh"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Please select a <i class='icon-art-gallery'></i> <i>gallery data folder</i> to reorder the images into a <strong>custom image order</strong>.<br/><br/><u>How you can create a gallery:</u><br />1. Create a new <i class='icon-collection'></i> collection.<br/>2. Select the created collection and create a <i class='icon-art-gallery'></i> gallery data folder."
+msgstr "vui lòng chọn một <i class='icon-art-gallery'></i> <i>bộ sưu tập</i> để sắp xếp lại hình ảnh.<br/><br/><u>Cách để tạo một bộ sưu tập</u><br />1. Tạo một <i class='icon-collection'></i> bộ sưu tập mới.<br/>2. Chọn một bộ sưu tập đã có sẵn và tạo một<i class='icon-art-gallery'></i>thư mục chứa bộ sưu tập."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Refresh"
+msgstr "Làm mới"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Refreshes the current folder view."
+msgstr "Làm mới thư mục hiện tại"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Rename the current selected folder."
+msgstr "Đổi tên cho thư mục được chọn"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Delete the current selected folder."
+msgstr "Xoá thư mục được chọn"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Drag folder items to reorder them."
+msgstr "Kéo các thư mục để sắp xếp chúng"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Folder details"
+msgstr "Chi tiết thư mục"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Select a folder and view more details about it."
+msgstr "Chọn một thư mục và xem thêm thông tin"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Select a folder and upload files. (Option)"
+msgstr "Chọn một thư mục để tải tập tin. (Tuỳ chọn)"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Move 1 file"
+msgstr "Chuyển 1 tập tin"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Oops"
+msgstr "Oops"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Error"
+msgstr "Lỗi"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "This folder is already exists. Please type another name."
+msgstr "Thư mục này đã tồn tại, vui lòng sử dụng tên khác"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Sorry! An error occurred while processing your request."
+msgstr "Xin lỗi, đã xảy ra lỗi khi xử lý yêu cầu của bạn"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "This folder cannot be delete."
+msgstr "Không thể xoá thư mục này"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Add sub folder"
+msgstr "Tạo mới thư mục con"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Rename"
+msgstr "Đổi tên"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Remove"
+msgstr "Xoá"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Something isn't correct here."
+msgstr "Có lỗi khi thực hiện yêu cầu của bạn"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "This page will reload now."
+msgstr "Trang này sẽ được tải lại."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "In this folder are sub directories, please delete them first!"
+msgstr "Thư mục này có chứa thư mục con, vui lòng xoá thư mục con trước."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Are you sure?"
+msgstr "Bạn có chắc chắn?"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "You will not be able to recover this folder! But files in this folder are all safe, they are moved to Uncategories folder."
+msgstr "Bạn sẽ không thể khôi phục lại thư mục này. Tất cả các tập tin trong thư mục này sẽ không bị xóa, nó dẽ di chuyển vào Uncategories"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Yes, delete it!"
+msgstr "Vâng, xoá nó!"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Deleted"
+msgstr "Đã xoá"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Your folder has been deleted."
+msgstr "Thư mục đã được xoá."
+
+msgid "Delete"
+msgstr "Xoá"
+
+msgid "New folder"
+msgstr "Tạo mới"
+
+msgid "New Folder"
+msgstr "Tạo Mới"
+
+msgid "Move"
+msgstr "Move"
+
+msgid "files"
+msgstr "files"

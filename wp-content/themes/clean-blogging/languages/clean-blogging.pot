@@ -1,0 +1,282 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Clean Blogging\n"
+"POT-Creation-Date: 2018-06-06 15:20+0530\n"
+"PO-Revision-Date: 2018-06-06 15:20+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:36
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:52 comments.php:75
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:55 comments.php:78
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:56 comments.php:79
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:93
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:23
+msgid "Copyright &copy;"
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:33
+#, php-format
+msgid "%1$s by %2$s."
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: footer.php:33
+msgid "https://wpvkp.com/clean-blogging-wordpress-theme/"
+msgstr ""
+
+#: functions.php:53
+msgid "Primary"
+msgstr ""
+
+#: functions.php:106
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:108
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:133
+msgid "Expand child menu"
+msgstr ""
+
+#: functions.php:134
+msgid "Collapse child menu"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:50
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "Manage Theme Colors"
+msgstr ""
+
+#: inc/customizer.php:26
+msgid "Featured Hero Image"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Control color of hyperlinks, buttons, on:focus elements."
+msgstr ""
+
+#: inc/customizer.php:69
+msgid "Accent on:hover Colors"
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Change the on:hover color of various elements."
+msgstr ""
+
+#: inc/customizer.php:91
+msgid "Header Background"
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Change the background color of Header."
+msgstr ""
+
+#: inc/customizer.php:113
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "Change the color of Text on Header Area."
+msgstr ""
+
+#: inc/customizer.php:135
+msgid "Header Text on:hover Color"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Change the on:hover color of Text on Header Area."
+msgstr ""
+
+#: inc/customizer.php:157
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Change the color of the footer area."
+msgstr ""
+
+#: inc/customizer.php:179
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "Change the color of text in footer area."
+msgstr ""
+
+#: inc/recent-posts.php:8
+msgid "Displays recent blog entries."
+msgstr ""
+
+#: inc/recent-posts.php:10
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/recent-posts.php:123
+msgid "Title"
+msgstr ""
+
+#: inc/recent-posts.php:128
+msgid "Number of posts to display"
+msgstr ""
+
+#: inc/recent-posts.php:130
+msgid "Defaults to 5 if empty"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:36
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:53
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:57
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:61
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:64
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:73
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:23
+#, php-format
+msgid "Search Results For: %s"
+msgstr ""
+
+#: searchform.php:8
+msgid "Search for:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:27
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:41
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:48
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:23 template-parts/content.php:69
+msgid "Pages:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Clean Blogging"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "designgrande"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://designgrande.com/"
+msgstr ""

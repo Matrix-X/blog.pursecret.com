@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:169
+msgid "All files"
+msgstr "Tous les fichiers"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:150
+msgid "Folders"
+msgstr "Dossiers"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Uncategories"
+msgstr "Uncategories"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Click this to create a <strong>new folder</strong>"
+msgstr "Cliquez ici pour créer un <strong>nouveau dossier</strong>"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "A folder can contain every type of file and collections, but no galleries."
+msgstr "Un dossier peut contenir tous les types de fichiers et de collections, mais pas de galeries."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Reorder images"
+msgstr "Réorganiser les images"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Please select a <i class='icon-art-gallery'></i> <i>gallery data folder</i> to reorder the images into a <strong>custom image order</strong>.<br/><br/><u>How you can create a gallery:</u><br />1. Create a new <i class='icon-collection'></i> collection.<br/>2. Select the created collection and create a <i class='icon-art-gallery'></i> gallery data folder."
+msgstr "Veuillez sélectionner un <i class='icon-art-gallery'></i> <i>dossier de données de la galerie</i> pour réorganiser les images dans un <strong>commande d'image personnalisée</strong>.<br/><br/><u>Comment créer une galerie:</u><br />1. Créer un nouveau <i class='icon-collection'></i> collection.<br/>2. Sélectionnez la collection créée et créez une <i class='icon-art-gallery'></i> dossier de données de la galerie."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Refresh"
+msgstr "Rafraîchir"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Refreshes the current folder view."
+msgstr "Actualiser l'affichage du dossier actuel."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Rename the current selected folder."
+msgstr "Renommez le dossier sélectionné en cours."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Delete the current selected folder."
+msgstr "Supprime le dossier sélectionné en cours."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Drag folder items to reorder them."
+msgstr "Faites glisser les éléments du dossier pour les réorganiser."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Folder details"
+msgstr "Détails du dossier"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Select a folder and view more details about it."
+msgstr "Sélectionnez un dossier et voir plus de détails à ce sujet."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Select a folder and upload files. (Option)"
+msgstr "Sélectionnez un dossier et téléchargez des fichiers. (Option)"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Move 1 file"
+msgstr "Déplacer 1 fichier"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Oops"
+msgstr "Oops"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Error"
+msgstr "Erreur"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "This folder is already exists. Please type another name."
+msgstr "Ce dossier existe déjà. S'il vous plaît taper un autre nom."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Sorry! An error occurred while processing your request."
+msgstr "Pardon! Une erreur s'est produite lors du traitement de votre demande."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "This folder cannot be delete."
+msgstr "Ce dossier ne peut pas être supprimé."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Add sub folder"
+msgstr "Ajouter un sous-dossier"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Rename"
+msgstr "Renommer"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Remove"
+msgstr "Retirer"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Something isn't correct here."
+msgstr "Quelque chose n'est pas correct ici."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "This page will reload now."
+msgstr "Cette page va se recharger maintenant."
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "In this folder are sub directories, please delete them first!"
+msgstr "Ce dossier contient des sous-répertoires, veuillez d'abord les supprimer!"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr?"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "You will not be able to recover this folder! But files in this folder are all safe, they are moved to Uncategories folder."
+msgstr "Vous ne serez pas en mesure de récupérer ce dossier!"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Yes, delete it!"
+msgstr "Oui, supprimez-le!"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Deleted"
+msgstr "Supprimé"
+
+#. Text in function
+#: filebird/admin/class-filebird-admin.php:170
+msgid "Your folder has been deleted."
+msgstr "Votre dossier a été supprimé."
+
+
+msgid "Delete"
+msgstr "Effacer"
+
+msgid "New folder"
+msgstr "Nouveau dossier"
+
+msgid "New Folder"
+msgstr "Nouveau Dossier"
+
+msgid "Move"
+msgstr "Move"
+
+msgid "files"
+msgstr "files"
