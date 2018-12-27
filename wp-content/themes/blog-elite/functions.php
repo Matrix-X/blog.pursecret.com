@@ -206,3 +206,6 @@ add_action( 'wp_enqueue_scripts', 'blog_elite_scripts' );
  * Load all required files.
  */
 require get_template_directory() . '/inc/init.php';
+
+
+

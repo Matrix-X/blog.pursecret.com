@@ -6150,3 +6150,30 @@ function admin_default_page() {
     return '/';
 }
 add_filter('login_redirect', 'admin_default_page');
+
+
+
+
+/*nofollow用于链接不被google外链到*/
+//function the_content_nofollow($content){
+//    preg_match_all('/href="(.*?)"/', $content, $matches);
+//
+//    if($matches){
+//
+//        $home_url = home_url();
+//        foreach ($matches[1] as $val) {
+//            if(strpos($val, $home_url)===false){
+//                $content = str_replace('href="'.$val.'"', 'href="'.$val.'" rel="external nofollow"', $content);
+//            }
+//        }
+//    }
+////    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~";
+////    var_dump($content);die;
+//    return $content;
+//}
+//add_filter('the_content', 'the_content_nofollow', 999);
+
+function thumbnail_url_field(){
+    echo 123;die;
+}
+add_filter( 'admin_post_thumbnail_html', 'thumbnail_url_field' );
