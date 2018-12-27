@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3019e995-e747-4dcb-b235-b09261406c8d" name="Default" comment="" />
+    <list default="true" id="3019e995-e747-4dcb-b235-b09261406c8d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-includes/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91965">
-              <caret line="6135" column="29" selection-start-line="6135" selection-start-column="29" selection-end-line="6135" selection-end-column="29" />
+            <state relative-caret-position="412">
+              <caret line="6116" column="35" lean-forward="true" selection-start-line="6116" selection-start-column="35" selection-end-line="6116" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -23,7 +25,7 @@
       <file leaf-file-name="theme.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-includes/theme.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="4170">
               <caret line="278" column="38" selection-start-line="278" selection-start-column="38" selection-end-line="278" selection-end-column="38" />
             </state>
           </provider>
@@ -36,26 +38,6 @@
               <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cropped-15371545811684_.pic_.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/uploads/2018/12/cropped-15371545811684_.pic_.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="cropped-15371545811684_.pic_-1-1170x300.jpg" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/uploads/2018/12/cropped-15371545811684_.pic_-1-1170x300.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="Chanel-Pre-Fall-2019-7.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/uploads/2018/12/Chanel-Pre-Fall-2019-7.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="Chanel-Pre-Fall-2019-8.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/uploads/2018/12/Chanel-Pre-Fall-2019-8.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -126,16 +108,17 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2065" />
-    <option name="y" value="23" />
-    <option name="width" value="1326" />
-    <option name="height" value="871" />
+    <option name="x" value="1664" />
+    <option name="y" value="36" />
+    <option name="width" value="1495" />
+    <option name="height" value="946" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,7 +161,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,14 +193,15 @@
       <workItem from="1545380391840" duration="7188000" />
       <workItem from="1545617586420" duration="7800000" />
       <workItem from="1545702809767" duration="3703000" />
+      <workItem from="1545875185182" duration="577000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21781000" />
+    <option name="totallyTimeSpent" value="23087000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2065" y="23" width="1326" height="871" extended-state="0" />
+    <frame x="1664" y="36" width="1495" height="946" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -228,32 +211,19 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="right" id="Mongo Explorer" order="3" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27647975" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21472815" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Mongo Explorer" order="3" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24348423" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,6 +236,13 @@
     <wordpressPath>$PROJECT_DIR$</wordpressPath>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/user.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="35790">
@@ -584,15 +561,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/theme.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="4170">
           <caret line="278" column="38" selection-start-line="278" selection-start-column="38" selection-end-line="278" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91965">
-          <caret line="6135" column="29" selection-start-line="6135" selection-start-column="29" selection-end-line="6135" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -603,11 +573,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/uploads/2018/12/cropped-15371545811684_.pic_.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$USER_HOME$/Desktop/Space Cycle/Dev/depoyment/db/view_online.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="131" column="33" lean-forward="true" selection-start-line="131" selection-start-column="33" selection-end-line="131" selection-end-column="33" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/uploads/2018/12/cropped-15371545811684_.pic_-1-1170x300.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/wp-includes/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="6116" column="35" lean-forward="true" selection-start-line="6116" selection-start-column="35" selection-end-line="6116" selection-end-column="35" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
