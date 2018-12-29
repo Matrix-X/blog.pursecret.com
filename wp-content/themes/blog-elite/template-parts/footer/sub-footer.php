@@ -49,7 +49,9 @@ if(!empty($sub_footer_bg_image)){
                 }
                 ?>
             </span>
-            <?php printf(esc_html__('Theme: %1$s by %2$s', 'blog-elite'), '<a href="http://themesaga.com/theme/blog-elite" target = "_blank" rel="designer">Blog Elite</a>', '<a href="http://themesaga.com/" target = "_blank" rel="designer">Themesaga</a>'); ?>
+
+<!--            --><?php //printf(esc_html__('Theme: %1$s by %2$s', 'blog-elite'), '<a href="http://themesaga.com/theme/blog-elite" target = "_blank" rel="designer">Blog Elite</a>', '<a href="http://themesaga.com/" target = "_blank" rel="designer">Themesaga</a>'); ?>
+
         </div>
     </div>
 </div>
