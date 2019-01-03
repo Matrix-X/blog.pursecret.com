@@ -14,3 +14,21 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+
+
+
+Route::group([
+
+    'namespace' => "Web",
+    'prefix' => 'oss',
+//    'middleware' => 'client',
+], function () {
+
+    Route::get('test', "QiniuController@test")->name('oss.qiniu.read.test');
+    Route::post('test', "QiniuController@test")->name('oss.qiniu.write.test');
+
+    Route::get('getBudgetList', "QiniuController@getBucketList")->name('oss.qiniu.read.getBucketList');
+
+});
