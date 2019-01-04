@@ -29,6 +29,7 @@ Route::group([
     Route::get('test', "QiniuController@test")->name('oss.qiniu.read.test');
     Route::post('test', "QiniuController@test")->name('oss.qiniu.write.test');
 
-    Route::get('getBudgetList', "QiniuController@getBucketList")->name('oss.qiniu.read.getBucketList');
+    Route::get('getExternalLinks', "QiniuController@getExternalLinks")->name('oss.qiniu.read.getExternalLinks');
+    Route::post('getExternalLinks', "QiniuController@getExternalLinks")->name('oss.qiniu.read.getExternalLinks');
 
 });
