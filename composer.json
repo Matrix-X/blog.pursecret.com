@@ -1,5 +1,0 @@
-{
-    "require": {
-        "qiniu/php-sdk": "^7.2"
-    }
-}
